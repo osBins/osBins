@@ -1,6 +1,4 @@
-<!--- ![#Arpit Jain, new to OSS](https://github.com/osBins/osBins/blob/main/banner.png) --->
-
-<img align="centre" src="https://github.com/osBins/osBins/blob/main/banner.png">
-
-<!--- <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> --->
+<p align="center">
+   <img src="https://github.com/osBins/osBins/blob/main/banner.png">
+</p>
 Still figuring stuff out!
